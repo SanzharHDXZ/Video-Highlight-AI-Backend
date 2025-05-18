@@ -1,0 +1,8 @@
+.env
+.clips
+__pycache__
+content_plans
+subtitles
+thumbnails
+uploads
+venv
